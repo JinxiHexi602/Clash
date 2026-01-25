@@ -1,0 +1,3 @@
+rules:
+GEOSITE,steam@cn,DIRECT
+GEOIP,cn,DIRECT
