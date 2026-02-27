@@ -1,3 +1,4 @@
 rules:
+  - DOMAIN,emby.bangumi.ca,DIRECT
   - GEOSITE,steam@cn,DIRECT
   - GEOIP,cn,DIRECT
