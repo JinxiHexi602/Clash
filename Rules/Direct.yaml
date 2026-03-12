@@ -1,6 +1,3 @@
 rules:
-  - DOMAIN,192.168.100.2,DIRECT
-  - DOMAIN,emby.bangumi.ca,DIRECT
-  - DOMAIN,media.nijigem.by,DIRECT
   - GEOSITE,steam@cn,DIRECT
   - GEOIP,cn,DIRECT
